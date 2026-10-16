@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, I am Kyaw Nyein Chan Htwe
+=======
+Hello, I am Kyaw Nyein Chan Htwe
+>>>>>>> parent of 885f1ec (update)
